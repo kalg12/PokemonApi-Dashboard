@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.menu-background{
+    background-color: #ef5350 !important;
+}
+
+.text-color{
+    color: #FECA1B !important;
+}
+
+.chart{
+    margin: 18px !important;
+    width: 90%;
+    height: 90%;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #ef5350;
+    color: #FECA1B !important;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
